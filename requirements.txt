@@ -1,0 +1,4 @@
+moviepy==1.0.3
+mediapipe==0.8.7.3
+scikit_image==0.18.3
+skimage==0.0
